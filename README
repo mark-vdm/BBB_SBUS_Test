@@ -2,5 +2,7 @@ I am using the SBUS to connect a FRSKY 8XR to a Beaglebone Black.
 This is based off the MBED project:
 https://developer.mbed.org/users/Digixx/notebook/futaba-s-bus-controlled-by-mbed/
 
+My library uses the BlackLib library by Yigit Yuce (http://yigityuce.com)
+
 Current status:
-	Test UART serial ports on the beaglebone
+	Test UART serial ports on the beaglebone. 
